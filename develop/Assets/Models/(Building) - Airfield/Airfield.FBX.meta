@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: bc9d19048a7ba504f853531e2e3c1526
+timeCreated: 1431002067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: afblue
+    100002: afbrick
+    100004: afhanger
+    100006: afhngrrf
+    100008: afhngryl
+    100010: afred
+    100012: afwindow
+    100014: //RootNode
+    100016: Camera01
+    100018: Camera01.target
+    100020: Light01
+    100022: Light02
+    100024: Light03
+    100026: Light04
+    100028: Light05
+    100030: Light06
+    100032: rnwypark
+    100034: rnwysrfc
+    100036: rnwystrp
+    100038: runway
+    100040: runwyedg
+    100042: towrwind
+    400000: afblue
+    400002: afbrick
+    400004: afhanger
+    400006: afhngrrf
+    400008: afhngryl
+    400010: afred
+    400012: afwindow
+    400014: //RootNode
+    400016: Camera01
+    400018: Camera01.target
+    400020: Light01
+    400022: Light02
+    400024: Light03
+    400026: Light04
+    400028: Light05
+    400030: Light06
+    400032: rnwypark
+    400034: rnwysrfc
+    400036: rnwystrp
+    400038: runway
+    400040: runwyedg
+    400042: towrwind
+    2300000: afblue
+    2300002: afbrick
+    2300004: afhanger
+    2300006: afhngrrf
+    2300008: afhngryl
+    2300010: afred
+    2300012: afwindow
+    2300014: rnwypark
+    2300016: rnwysrfc
+    2300018: rnwystrp
+    2300020: runway
+    2300022: runwyedg
+    2300024: towrwind
+    3300000: afblue
+    3300002: afbrick
+    3300004: afhanger
+    3300006: afhngrrf
+    3300008: afhngryl
+    3300010: afred
+    3300012: afwindow
+    3300014: rnwypark
+    3300016: rnwysrfc
+    3300018: rnwystrp
+    3300020: runway
+    3300022: runwyedg
+    3300024: towrwind
+    4300000: afblue
+    4300002: afbrick
+    4300004: afhanger
+    4300006: afhngrrf
+    4300008: afhngryl
+    4300010: afred
+    4300012: afwindow
+    4300014: rnwypark
+    4300016: rnwysrfc
+    4300018: rnwystrp
+    4300020: runway
+    4300022: runwyedg
+    4300024: towrwind
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

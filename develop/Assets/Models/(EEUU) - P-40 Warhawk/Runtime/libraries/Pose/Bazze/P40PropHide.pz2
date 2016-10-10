@@ -1,0 +1,11 @@
+{
+
+version
+	{
+	number 4.01
+	}
+actor propeller_still:1
+	{
+	off
+	}	
+}
